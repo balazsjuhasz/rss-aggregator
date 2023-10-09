@@ -1,0 +1,1 @@
+go build -o rss-aggregator.exe && rss-aggregator.exe
