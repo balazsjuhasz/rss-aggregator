@@ -1,1 +1,3 @@
 # rss-aggregator
+
+## 🤝 Contributing
